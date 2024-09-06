@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Johnson explains complex concepts clearly. Her enthusiasm for physics is contagious!"
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant instructor. Prof. Chen's projects are challenging but incredibly rewarding."
+      },
+      {
+        "professor": "Dr. Sarah Martinez",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Knowledgeable, but lectures can be dry. More interactive sessions would be great."
+      },
+      {
+        "professor": "Prof. David Taylor",
+        "subject": "History",
+        "stars": 5,
+        "review": "Prof. Taylor brings history to life. His storytelling approach makes every class engaging."
+      },
+      {
+        "professor": "Dr. Rachel Wong",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Dr. Wong's real-world examples make psychological concepts easy to grasp and remember."
+      },
+      {
+        "professor": "Prof. James Anderson",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Struggles to explain advanced concepts. Office hours are helpful, but lectures are confusing."
+      },
+      {
+        "professor": "Dr. Olivia Brown",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Brown's lab sessions are excellent. She ensures everyone understands before moving on."
+      },
+      {
+        "professor": "Prof. Robert Lee",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Solid grasp of the subject, but could improve on making complex theories more accessible."
+      },
+      {
+        "professor": "Dr. Amanda Clark",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Dr. Clark's passion for literature is evident. Her analysis of texts is always insightful."
+      },
+      {
+        "professor": "Prof. Thomas Wilson",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Balanced viewpoints and encourages critical thinking. Prof. Wilson is a true mentor."
+      },
+      {
+        "professor": "Dr. Lisa Garcia",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. Garcia's research-based approach provides valuable insights into social issues."
+      },
+      {
+        "professor": "Prof. Kevin Patel",
+        "subject": "Engineering",
+        "stars": 3,
+        "review": "Knowledgeable but sometimes moves too fast. More practice problems would be beneficial."
+      },
+      {
+        "professor": "Dr. Sophia Kim",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Kim's virtual museum tours are innovative and make art history come alive."
+      },
+      {
+        "professor": "Prof. Daniel Murphy",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Thought-provoking lectures. Prof. Murphy excels at facilitating deep discussions."
+      },
+      {
+        "professor": "Dr. Natalie Cooper",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Cooper's field trips and hands-on projects make learning about the environment exciting."
+      },
+      {
+        "professor": "Prof. Alexander Ivanov",
+        "subject": "Music Theory",
+        "stars": 2,
+        "review": "Highly skilled musician, but struggles to convey basic concepts to beginners."
+      },
+      {
+        "professor": "Dr. Yasmin Ali",
+        "subject": "Neuroscience",
+        "stars": 4,
+        "review": "Dr. Ali's use of case studies helps in understanding complex neurological concepts."
+      },
+      {
+        "professor": "Prof. Christopher Davis",
+        "subject": "Business Administration",
+        "stars": 3,
+        "review": "Good theoretical knowledge, but could incorporate more real-world business scenarios."
+      },
+      {
+        "professor": "Dr. Elena Rodriguez",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Dr. Rodriguez's interactive approach to teaching languages is both effective and fun."
+      },
+      {
+        "professor": "Prof. William Chang",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Prof. Chang makes statistics accessible with practical examples and clear explanations."
+      }
+    ]
+  }
