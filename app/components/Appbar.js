@@ -9,20 +9,20 @@ import IconButton from '@mui/material/IconButton';
 
 export default function ButtonAppBar({title}) {
   return (
-    <Box sx={{ flexGrow: 1, width: '80vw', mx: 'auto' }}>
+    <Box sx={{ flexGrow: 1, width: '70vw', mx: 'auto' }}>
       <AppBar position="static" sx={{backgroundColor:'#070F26'}}>
-        <Toolbar>
+        <Toolbar sx={{ justifyContent: 'center' }}>
           <IconButton
             size="large"
             edge="start"
             color="inherit"
             aria-label="menu"
-            sx={{alignItems: 'center'}}
+          
           
           >
             
           </IconButton>
-          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+          <Typography variant="h6" component="div" sx={{ flexGrow: 1}}>
             {title}
           </Typography>
          
